@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I am <a href="#">Shashwat Rai </a></h1>
 
-🔭 I’m currently working on a Full Stack Instagram Clone
+🔭 I’m currently working on a Full Stack Website
 
 🌱 I’m currently learning MERN Full Stack Development, ML, AI
 
