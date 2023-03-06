@@ -26,7 +26,7 @@ Write and run your code without installing any compiler in your system. A code e
 #### 📸 [InstaClone](): <br>
 View and upload image posts to share your experience with your friends. A Flutter app built along with Firebase.
 
-### Statistics:
+### 📈 Statistics:
 
 <p align="center">
           <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=ShashwatR2k&count_private=true&show_icons=true&theme=github_dark" alt="Stats" />
@@ -37,9 +37,6 @@ View and upload image posts to share your experience with your friends. A Flutte
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShashwatR2k" alt="Sr08" /></a> </p>
 
 <table>
 <tr>
