@@ -35,9 +35,9 @@ View and upload image posts to share your experience with your friends. A Flutte
 
 
 ### ✍️ Random Quote:
-<p align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-</p>
+
 
 <table>
 <tr>
