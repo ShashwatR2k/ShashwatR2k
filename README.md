@@ -14,6 +14,17 @@ Hi, I am Shashwat - a student and developer who loves to learn and build new thi
 📫 Contact me at: [<img align="center" alt="LinkedIn" width="80px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](#) or mail me at rai.shashwat99@gmail.com
 
 ⚡ Fun fact: Music is always running in the background.
+### 🔨 My works
+
+#### 🎧 [Spotify-CloNext](): <br>
+View all your playlists, albums and artists in this Spotify clone. A web app using NextJS, TailwindCSS for UI and next-auth for authenticating users through their Spotify account.
+
+#### 👩‍💻 [CodeRockC](): <br>
+Write and run your code without installing any compiler in your system. A code editor web app built using React, TailwindCSS with Firebase.
+
+
+#### 📸 [InstaClone](): <br>
+View and upload image posts to share your experience with your friends. A Flutter app built along with Firebase.
 
 ### Statistics:
 
@@ -22,9 +33,11 @@ Hi, I am Shashwat - a student and developer who loves to learn and build new thi
           <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatR2k&theme=dark" alt="Stats" />
           <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatR2k&theme=github_dark&langs_count=5">
 </p>
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShashwatR2k" alt="Jks08" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShashwatR2k" alt="Sr08" /></a> </p>
 
 <table>
 <tr>
